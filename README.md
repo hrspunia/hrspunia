@@ -2,7 +2,7 @@
 <h3 align="center"> Data Analyst | Startup-Grown • Client-Tested • Results-Driven</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQFK8zfqbc0LuQ/profile-displayphoto-shrink_800_800/B56ZZKU58aGoAg-/0/1745003716835?e=1757548800&v=beta&t=fU4Yqvo0HcmSvFtlgleWSV6K6bykyY1BngfHQ8jjDkA  " height="21"  width = "21" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQFK8zfqbc0LuQ/profile-displayphoto-shrink_800_800/B56ZZKU58aGoAg-/0/1745003716835?e=1757548800&v=beta&t=fU4Yqvo0HcmSvFtlgleWSV6K6bykyY1BngfHQ8jjDkA  " height="50"  width = "40" />
 </p>
 
 ---
