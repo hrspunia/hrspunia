@@ -2,7 +2,7 @@
 <h3 align="center"> Data Analyst | Startup-Grown • Client-Tested • Results-Driven</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQFK8zfqbc0LuQ/profile-displayphoto-shrink_800_800/B56ZZKU58aGoAg-/0/1745003716835?e=1757548800&v=beta&t=fU4Yqvo0HcmSvFtlgleWSV6K6bykyY1BngfHQ8jjDkA " />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQFK8zfqbc0LuQ/profile-displayphoto-shrink_800_800/B56ZZKU58aGoAg-/0/1745003716835?e=1757548800&v=beta&t=fU4Yqvo0HcmSvFtlgleWSV6K6bykyY1BngfHQ8jjDkA  " height="21"  width = "21" />
 </p>
 
 ---
@@ -16,9 +16,26 @@
 
 ---
 
+
+---
+
+
 ## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,sql,tableau,excel,pandas,numpy,matplotlib,seaborn,git,html,css" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-46A2F1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 
 ---
 
@@ -31,7 +48,7 @@
 ### 🧠 [Golu.AI – Voice Assistant](https://github.com/hrspunia/Golu.AI)
 > A Python-powered personal assistant that listens to voice commands and performs tasks like opening YouTube, searching Wikipedia, and playing music.
 
-### 📚 [EdTech Analytics (Coming Soon...)](#)
+### 📚 [EdTech Analytics]
 > SQL + Excel + Tableau dashboard on course engagement & user success in an edtech platform.
 
 ---
