@@ -9,7 +9,7 @@
 
 ## 📜 About Me
 
-- 🎓 Engineering student passionate about solving business problems with **data analysis**
+- 🎓 Computer Science Engineering undergrad passionate about solving business problems and building businesses with **data analysis**
 - 🚀 Led growth strategy at a startup and improved client reach by 40%+ using content insights and automation
 - 💡 **Python, SQL, Tableau, Excel, Power BI**
 - 📊 Focused on creating clean, real-world dashboards and data workflows that deliver value
