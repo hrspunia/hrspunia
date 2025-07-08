@@ -1,10 +1,8 @@
-                                                               ## Hi there 👋
-
-<h1 align="center"> I'm Harsh Punia 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Startup-Grown • Client-Tested • Results-Driven</h3>
+<h1 align="center"> Hi, I'm Harsh Punia 👋</h1>
+<h3 align="center"> Data Analyst | Startup-Grown • Client-Tested • Results-Driven</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Data+is+not+just+numbers+—+it's+direction.;I+turn+data+into+decisions.;Always+learning+%F0%9F%93%9A+|+Always+shipping+%F0%9F%9A%80" " />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQFK8zfqbc0LuQ/profile-displayphoto-shrink_800_800/B56ZZKU58aGoAg-/0/1745003716835?e=1757548800&v=beta&t=fU4Yqvo0HcmSvFtlgleWSV6K6bykyY1BngfHQ8jjDkA " />
 </p>
 
 ---
@@ -20,7 +18,7 @@
 
 ## 🧰 Tech Stack
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQFK8zfqbc0LuQ/profile-displayphoto-shrink_800_800/B56ZZKU58aGoAg-/0/1745003716835?e=1757548800&v=beta&t=fU4Yqvo0HcmSvFtlgleWSV6K6bykyY1BngfHQ8jjDkA" />
+<img src="https://skillicons.dev/icons?i=python,sql,tableau,excel,pandas,numpy,matplotlib,seaborn,git,html,css" />
 
 ---
 
@@ -51,7 +49,6 @@
 
 - 📧 Email: harshpunia2004@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/hrspunia](https://linkedin.com/in/hrspunia)  
-- 📂 Portfolio (Coming Soon): [hrspunia.github.io](https://hrspunia.github.io)
 
 ---
 
