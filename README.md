@@ -1,4 +1,4 @@
-## Hi there 👋
+                                                                               ## Hi there 👋
 
 <h1 align="center">Hi, I'm Harsh Punia 👋</h1>
 <h3 align="center">Aspiring Data Analyst | Startup-Grown • Client-Tested • Results-Driven</h3>
@@ -20,7 +20,7 @@
 
 ## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,sql,tableau,excel,pandas,numpy,matplotlib,seaborn,git,html,css" />
+<img src="https://media.licdn.com/dms/image/v2/D5603AQFK8zfqbc0LuQ/profile-displayphoto-shrink_800_800/B56ZZKU58aGoAg-/0/1745003716835?e=1757548800&v=beta&t=fU4Yqvo0HcmSvFtlgleWSV6K6bykyY1BngfHQ8jjDkA" />
 
 ---
 
@@ -57,4 +57,4 @@
 
 <p align="center">✨ Let's turn curiosity into career 🚀</p>
 
--->
+
